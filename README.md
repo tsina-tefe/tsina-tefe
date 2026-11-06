@@ -4,4 +4,4 @@ I am a Full-Stack Developer, AI Specialist, LLM Trainer, and Data Scientist with
 
 🧩 Tech Stack
 
-![alt text]([http://url/to/img.png](https://github.com/tsina-tefe/assets/blob/main/es6.jpg))
+![alt text]((https://github.com/tsina-tefe/assets/blob/main/es6.jpg))
