@@ -3,4 +3,5 @@ I am a Full-Stack Developer, AI Specialist, LLM Trainer, and Data Scientist with
 
 
 🧩 Tech Stack
-  ![Alt Text]([path/to/image.png](https://camo.githubusercontent.com/c087abdb99213ab448d6781d5f05e0fa6d723e1935ed9221fab22bd2d1909dca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4553362b2d79656c6c6f773f6c6f676f3d6a617661736372697074) "Optional Hover Title")
+
+![alt text]([http://url/to/img.png](https://github.com/tsina-tefe/assets/blob/main/es6.jpg))
